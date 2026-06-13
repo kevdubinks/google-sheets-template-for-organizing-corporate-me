@@ -1,2 +1,6 @@
-# google-sheets-template-for-organizing-corporate-me
-Agent autonome — Google Sheets Template for Organizing Corporate Messages | Cycle: cycle_0005 | saas_micro
+# Google Sheets Template for Organizing Corporate Messages
+
+\n# Google Sheets Template for Organizing Corporate Messages\n\n# Columns:\nA - Message Type (Email, Social Media, Presentation)\nB - Placeholder 1\nC - Placeholder 2\nD - Placeholder 3\nE - Example Tone\nF - Actual Message\n\n# Sample Data:\n1. Email\n   B - [Recipient Name]\n   C - [Company Name]\n   D - [Date]\n   E - Formal\n   F - Dear [Recipient Name],\n       I am writing to you regarding the upcoming meeting on [Date] at [Company Name]. We will be discussing...\n2. Social Media\n   B - [Platform]\n   C - [Post Content]\n   D - [Hashtags]\n   E - Casual\n   F - Hey everyone, just wanted to share some exciting news about our upcoming project on [Platform]. Check it out: [Post Content] #[Hashtags]\n3. Presentation\n   B - Slide Title\n   C - Bullet Point 1\n   D - Bullet Point 2\n   E - Informative\n   F - Slide Title: [Slide Title]\n       - [Bullet Point 1]\n       - [Bullet Point 2]\n4. Email\n   B - [Recipient Name]\n   C - [Company Name]\n   D - [Date]\n   E - Friendly\n   F - Hey [Recipient Name],\n       It's great to connect with you again! I hope this email finds you well. I wanted to touch base about...\n5. Social Media\n   B - [Platform]\n   C - [Post Content]\n   D - [Hashtags]\n   E - Engaging\n   F - Hey [Platform] community, check out our latest project! [Post Content] #[Hashtags]\n\n# Formulas:\n=IF(A2=
+
+---
+Genere par agent autonome | Cycle: cycle_0005 | Categorie: saas_micro
